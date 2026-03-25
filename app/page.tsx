@@ -30,7 +30,7 @@ const PROJECTS = [
     liveUrl: "https://www.pressbox.ai",
     caseStudyHref: "/projects/pressbox",
     stack: ["React", "Express (Node.js)", "Pinecone", "OpenAI", "Cohere"],
-    img: "/pressboxshot.png"
+    img: "/pressboxshot2.png"
   },
 ];
 
